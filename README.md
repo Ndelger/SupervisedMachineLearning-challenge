@@ -1,6 +1,6 @@
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
-In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
+In this assignment, I will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
 
 ## Background
 
